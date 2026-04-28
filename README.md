@@ -15,7 +15,14 @@
 - [Port Scanner](https://github.com/AndreeSalvo/PortScanner-)
 - [Vulnerability Dashboard](https://github.com/Andree-Cyber/vulnerability-dashboard)
 - [Siem Lite Log Analyzer](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
-  
+
+<h2>📜 Certifications:</h2>
+
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/2RLRXWHVZ2YK)
+- [Google IT Support Professional Certificate (v2)](https://www.credly.com/badges/dc815f43-d252-4b66-a4f8-a66f3f50ce2b/linked_in_profile)
+- [CS50 Introduction to Programming with Python](https://certificates.cs50.io/03da5774-f422-49d0-b39f-30c269ef1f94.pdf?size=letter)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
