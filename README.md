@@ -12,8 +12,8 @@
 <h2> Personal Projects:</h2>
   
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
-- [Firewall Traffic Simulation](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
-- [Port Scanner](https://github.com/AndreeSalvo/PortScanner-)
+- [Firewall Traffic Simulation - Python-based](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
+- [Port Scanner - Python-based](https://github.com/AndreeSalvo/PortScanner-)
 - [Vulnerability Dashboard - Python-based](https://github.com/Andree-Cyber/vulnerability-dashboard)
 - [Siem Lite Log Analyzer - Python-based](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
 
