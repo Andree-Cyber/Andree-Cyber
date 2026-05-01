@@ -9,9 +9,13 @@
 - [Network Defense School Lab](https://github.com/AndreeSalvo/Network-Restructuring-Status-Report)
 - [Security Assessment and Auditing ](https://github.com/AndreeSalvo/Wireless-Networks-Vulnerability-Scanning)
 
-<h2> Personal Projects:</h2>
+<h2>Home Lab Projects:</h2>
   
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
+
+
+<h2>Scripting & Programming Projects:</h2>
+
 - [Firewall Traffic Simulation - Python-based](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
 - [Port Scanner - Python-based](https://github.com/AndreeSalvo/PortScanner-)
 - [Vulnerability Dashboard - Python-based](https://github.com/Andree-Cyber/vulnerability-dashboard)
