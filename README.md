@@ -13,7 +13,7 @@
   
 - [SIEM SOC Lab](https://github.com/Andree-Cyber/Wazuh-Soc-Lab)
 - [Phishing-Email-Analysis-Lab](https://github.com/Andree-Cyber/Phishing-Email-Analysis-Lab)
-- [Consultant Active Directory Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
+- [Active Directory Implementation Consulting Lab](https://github.com/Andree-Cyber/associate-consultant-lab)
 
 <h2>Scripting & Programming Projects:</h2>
 
