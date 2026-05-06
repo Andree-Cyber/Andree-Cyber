@@ -17,10 +17,10 @@
 
 <h2>Scripting & Programming Projects:</h2>
 
-- [Firewall Traffic Simulation - Python-based](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
+- [Firewall Traffic Simulation](https://github.com/AndreeSalvo/Firewall-traffic-simulation)
 - [Port Scanner - Python-based](https://github.com/AndreeSalvo/PortScanner-)
-- [Vulnerability Dashboard - Python-based](https://github.com/Andree-Cyber/vulnerability-dashboard)
-- [Siem Lite Log Analyzer - Python-based](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
+- [Vulnerability Dashboard](https://github.com/Andree-Cyber/vulnerability-dashboard)
+- [Siem Lite Log Analyzer](https://github.com/Andree-Cyber/siem-lite-log-analyzer)
 
 <h2>📜 Certifications:</h2>
 
